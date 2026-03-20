@@ -1,3 +1,5 @@
+@import url("https//cdn.web-fonts.ge/fonts/bpg-no9/css/bpg-no9.min.css");
+
 *{
 	margin: 0;
 	box-sizing: border-box;
@@ -78,6 +80,7 @@ header{
 	padding-left: 362px;
 	display: inline-block;
 	vertical-align: middle;
+	font-family: "ALK Tall Nusxuri", sans-serif;
 }
 .images{
 	padding-left: 362px;
@@ -104,6 +107,7 @@ header{
 }
 .p1{
 	margin-top: 60px;
+	font-family: "BPG No9", sans-serif;
 }
 .p2, .p3{
 	margin-top: 18px;
